@@ -1,5 +1,5 @@
 {
-  "name": "mcp-mysql-server",
+  "name": "@iflow-mcp/mcp-mysql-server",
   "version": "0.1.4",
   "description": "A Model Context Protocol server for MySQL database operations",
   "type": "module",
